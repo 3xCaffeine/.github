@@ -1,7 +1,7 @@
 # 3xCaffeine
 
 Welcome to 3xCaffeine :coffee::computer::zap:  
-`caffeine, chaos and code.`  
+`caffeine, chaos and code`  
   
 
 ## About 3xCaffeine
