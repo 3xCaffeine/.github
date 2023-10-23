@@ -10,7 +10,7 @@ Bunch of goofballs, tryna ball it up. We're a group of students who are passiona
 
 ## Projects
 
-### Project 1: Roadmap
+### Project 1: [Roadmap](https://github.com/3xcaffeine/roadmap)
 
 Skill up for basic AI/ML projects. This is a roadmap for beginners to get started with `Python` for usage in AI/ML projects.
 
